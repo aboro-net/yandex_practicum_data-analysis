@@ -26,13 +26,13 @@
    Расчет экономических показателей (метрики юнит-экономики); оценка окупаемости инвестиций в маркетинг; поиск "узкого места" в экономической модели; когортный анализ<br />
    stack: `Python`, `Pandas`, `Matplotlib`, `Seaborn` <br />
    scope: ``
-7. [Проверка гипотез по увеличению выручки в интернет-магазине, оценка результатов A/B теста](06_analytics_of_customer_acquisition_channels) <br />
+7. [Проверка гипотез по увеличению выручки в интернет-магазине, оценка результатов A/B теста](07_hypothesis_and_a-b_testing) <br />
    Приоритизация гипотез по фреймворкам ICE и RICE; оценка результатов A/B-тестирования; построение графиков: кумулятивная выручка, средний чек, конверсия по группам; расчет статистической значимости различий конверсий и средних чеков по сырым и очищенным данным<br />
    stack: `Python`, `Pandas`, `Matplotlib`, `Seaborn` <br />
    scope: `e-commerce`, `интернет-маркетинг`
-8. [Анализ пользовательского поведения в мобильном приложении](06_analytics_of_customer_acquisition_channels)<br />
+8. [Анализ пользовательского поведения в мобильном приложении](08_event_analytics_mobile_app)<br />
    Описание воронки событий (от первого запуска до покупки); поиск разницы между клиентской и пользовательской сессиями; когортный анализ; сравнение конверсий в группах по принципу A/B-теста <br />
    stack: `Python`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`<br />
    scope: `Mobile App`
 
-<span align="center">[mail@aboro.ru](mailto:mail@aboro.ru) :: [Telegram](https://t.me/aboro_net)</span>
+<span align="center">[e-mail](mailto:mail@aboro.ru) :: [Telegram](https://t.me/aboro_net) :: [web](http://aboro.net/)</span>
